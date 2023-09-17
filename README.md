@@ -15,7 +15,7 @@
     <br>
     ➺ Sometimes I make
         <a
-            href="https://github.com/sylvorus?tab=repositories">
+            href="https://github.com/Sylvorus?tab=repositories">
             random shit
         </a>
     for apps and games
@@ -32,11 +32,11 @@
         <a
             href="https://discord.com/users/486463991586095104">
             <img
-                src="https://lanyard.cnrad.dev/api/486463991586095104?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=sylvorus is probably sleeping rn" />
+                src="https://lanyard.cnrad.dev/api/486463991586095104?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=Sylvorus is probably sleeping rn" />
         </a>
         <br>
         <img
-            src="https://komarev.com/ghpvc/?username=sylvorus&style=for-the-badge&color=DD6487" alt="Profile Views" />
+            src="https://komarev.com/ghpvc/?username=Sylvorus&style=for-the-badge&color=DD6487" alt="Profile Views" />
 </div>
 
 #
@@ -88,13 +88,13 @@
             align="center"
             style="padding=0;width=50%;">
             <img
-                src="https://github-readme-stats.vercel.app/api/?username=sylvorus&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
+                src="https://github-readme-stats.vercel.app/api/?username=Sylvorus&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
         </td>
         <td
             align="center"
             style="padding=0;width=50%;">
             <img
-                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=sylvorus&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Sylvorus&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
         </td>
     </tr>
 </table>
