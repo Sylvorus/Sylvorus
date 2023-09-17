@@ -1,16 +1,100 @@
-### Hi there 👋
+<h1
+    align="center">
+    Hello! ~ My name is Pierre!
+</h1>
 
-<!--
-**Sylvorus/Sylvorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3
+    align="center"
+    style="font-weight: bold">
+    About Me
+</h3>
 
-Here are some ideas to get you started:
+<div
+    align="center">
+    ➺ Casual developer!
+    <br>
+    ➺ Sometimes I make
+        <a
+            href="https://github.com/sylvorus?tab=repositories">
+            random shit
+        </a>
+    for apps games
+    <br>
+    ➺ 14 ~ United Kingdom ~ CS Student ~ UTC+0
+    <br>
+    ➺ Not fluent in all languages listed below
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<div
+    align="center">
+        <a
+            href="[https://discord.com/users/486463991586095104">
+            <img
+                src="https://lanyard.cnrad.dev/api/486463991586095104?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=pierre is sleeping rn" />
+        </a>
+        <br>
+        <img
+            src="https://komarev.com/ghpvc/?username=sylvorus&style=for-the-badge&color=DD6487" alt="Profile Views" />
+</div>
+
+#
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Languages
+</h3>
+<div
+    align="center"
+    style="margin-top: 10px">
+    <img
+        src="https://skillicons.dev/icons?i=js,kotlin,py,lua,html,css&theme=dark" />
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img
+        src="https://skillicons.dev/icons?i=visualstudio,bash,git,github,githubactions,stackoverflow,linux&theme=dark" />
+    <br>
+    <img
+        src="https://skillicons.dev/icons?i=regex,codepen,dotnet,discord&theme=dark" />
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Design
+</h3>
+<div
+    align="center">
+    <img
+        src="https://skillicons.dev/icons?i=ae,ai,ps,blender&theme=dark" />
+</div>
+
+#
+
+<table
+    align="center">
+    <tr
+        align="center">
+        <td
+            align="center"
+            style="padding=0;width=50%;">
+            <img
+                src="https://github-readme-stats.vercel.app/api/?username=sylvorus&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
+        </td>
+        <td
+            align="center"
+            style="padding=0;width=50%;">
+            <img
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=sylvorus&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+        </td>
+    </tr>
+</table>
