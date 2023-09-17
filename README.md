@@ -18,7 +18,7 @@
             href="https://github.com/sylvorus?tab=repositories">
             random shit
         </a>
-    for apps games
+    for apps and games
     <br>
     ➺ 14 ~ United Kingdom ~ CS Student ~ UTC+0
     <br>
