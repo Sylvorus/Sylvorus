@@ -37,13 +37,13 @@
         <br>
         <div id="badges">
             <a href="https://twitch.tv/sylvorus">
-            <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
           </a>
             <a href="https://www.youtube.com/channel/UC2gztxPWTrekNSwMjKTu3XA">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
           </a>
             <a href="https://twitter.com/sylvorus">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+            <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
           </a>
         </div>
         <img
