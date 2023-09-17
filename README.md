@@ -1,6 +1,6 @@
 <h1
     align="center">
-    Hello! ~ My name is Pierre!
+    Hey! I'm Pierre.
 </h1>
 
 <h3
