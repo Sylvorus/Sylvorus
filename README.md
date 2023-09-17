@@ -32,7 +32,7 @@
         <a
             href="https://discord.com/users/486463991586095104">
             <img
-                src="https://lanyard.cnrad.dev/api/486463991586095104?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=Sylvorus is probably sleeping rn" />
+                src="https://lanyard.cnrad.dev/api/486463991586095104?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=sylvorus+is+probably+sleeping+rn" />
         </a>
         <br>
         <img
