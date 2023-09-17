@@ -11,7 +11,7 @@
 
 <div
     align="center">
-    ➺ Casual developer!
+    ➺ Casual developer (frequently inactive)
     <br>
     ➺ Sometimes I make
         <a
