@@ -16,7 +16,7 @@
     ➺ Sometimes I make
         <a
             href="https://github.com/Sylvorus?tab=repositories">
-            random shit
+            random stuff
         </a>
     for apps and games
     <br>
