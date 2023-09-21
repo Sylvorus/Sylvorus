@@ -20,7 +20,7 @@
         </a>
     for apps and games
     <br>
-    ➺ 14 ~ United Kingdom ~ CS Student ~ UTC+0
+    ➺ 14 ~ United Kingdom ~ Complete Beginner Programmer
     <br>
     ➺ Not fluent in all languages listed below
 </div>
