@@ -86,7 +86,7 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=ae,ai,ps,blender&theme=dark" />
+        src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender&theme=dark" />
 </div>
 
 #
