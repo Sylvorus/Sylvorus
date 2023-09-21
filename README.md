@@ -72,7 +72,7 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=visualstudio,bash,git,github,githubactions,stackoverflow,linux&theme=dark" />
+        src="https://skillicons.dev/icons?i=visualstudio,idea,bash,git,github,githubactions,stackoverflow&theme=dark" />
     <br>
     <img
         src="https://skillicons.dev/icons?i=regex,codepen,dotnet,discord&theme=dark" />
