@@ -61,7 +61,7 @@
     align="center"
     style="margin-top: 10px">
     <img
-        src="https://skillicons.dev/icons?i=js,kotlin,py,lua,java,html,css&theme=dark" />
+        src="https://skillicons.dev/icons?i=kotlin,py,lua,java&theme=dark" />
 </div>
 
 <h3
