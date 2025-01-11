@@ -61,7 +61,7 @@
     align="center"
     style="margin-top: 10px">
     <img
-        src="https://skillicons.dev/icons?i=kotlin,py,lua,java&theme=dark" />
+        src="https://skillicons.dev/icons?i=cpp,kotlin,py,lua,java&theme=dark" />
 </div>
 
 <h3
@@ -72,10 +72,10 @@
 <div
     align="center">
     <img
-        src="https://skillicons.dev/icons?i=visualstudio,idea,bash,git,github,githubactions,stackoverflow&theme=dark" />
+        src="https://skillicons.dev/icons?i=visualstudio,idea,bash,git,github,stackoverflow&theme=dark" />
     <br>
     <img
-        src="https://skillicons.dev/icons?i=regex,codepen,dotnet,discord&theme=dark" />
+        src="https://skillicons.dev/icons?i=regex,discord&theme=dark" />
 </div>
 
 <h3
