@@ -20,7 +20,7 @@
         </a>
     for apps and games
     <br>
-    ➺ 15 ~ United Kingdom ~ Complete Beginner Programmer
+    ➺ United Kingdom ~ Complete Beginner Programmer
     <br>
     ➺ Not fluent in all languages listed below
 </div>
